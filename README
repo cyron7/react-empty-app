@@ -1,0 +1,6 @@
+The bare minimum of what you need to create a react app
+- index.html file: This is what we will send to the client and what our react app will render into
+- Support for ES6: Want to be able to write in modern JS syntax
+- Webpack: Takes care of building our app and loading of CSS modules. Will also use to server our app during development
+- Root component: This is the base of our component tree. It is the container that holds the application
+- react-hot-loader: Allows us to see the changes in our app immediatly without having to do refresh
