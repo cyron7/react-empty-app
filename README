@@ -4,3 +4,9 @@ The bare minimum of what you need to create a react app
 - Webpack: Takes care of building our app and loading of CSS modules. Will also use to server our app during development
 - Root component: This is the base of our component tree. It is the container that holds the application
 - react-hot-loader: Allows us to see the changes in our app immediatly without having to do refresh
+
+Installing babel -> npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/preset-react
+
+Installing Webpack -> npm install --save-dev webpack webpack-cli webpack-dev-server style-loader css-loader babel-loader
+
+Running web pack server -> npx webpack-dev-server --mode development
