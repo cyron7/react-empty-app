@@ -1,4 +1,4 @@
-# The PRoject
+# The Project
 This is to better understand ReactJS and be better at using it
 ## The bare minimum of what you need to create a react app
 - **index.html file:** This is what we will send to the client and what our react app will render into
