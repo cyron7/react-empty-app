@@ -16,6 +16,14 @@ npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/preset-re
 ```
 npm install --save-dev webpack webpack-cli webpack-dev-server style-loader css-loader babel-loader
 ```
+### Installing the hot loader
+```
+npm install --save-dev react-hot-loader
+```
+Or
+```
+npm install --save-dev react-hot-loader --legacy-peer-dep
+```
 ### Running web pack server
 ```
 npx webpack-dev-server --mode development
